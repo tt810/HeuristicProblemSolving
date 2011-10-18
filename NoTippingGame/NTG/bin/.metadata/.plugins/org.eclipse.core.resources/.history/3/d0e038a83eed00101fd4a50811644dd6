@@ -1,0 +1,44 @@
+/**
+ * 
+ */
+ 
+
+import java.io.*;
+import static java.lang.Math.*;
+
+class Contestant extends NoTippingPlayer {
+	private static BufferedReader br;
+	private String status;
+	private Integer[] torque = {-9, -3};
+	
+	Contestant(int port) {
+		super(port);
+	}
+
+	private String addingPhase()
+	{
+		int left = Math.abs((int)torque[0]); 
+		int right = (int)torque[1]; 
+		return ""; 
+	}
+	
+	protected String process(String command) {
+		this.status = command;
+		
+		//System.out.println(command);
+		//System.out.println("Enter move (position weight): ");
+		try {
+			//return "3 3";
+			return br.readLine();
+		} catch (Exception ev) {
+			System.out.println(ev.getMessage());
+		}
+		return "";			
+	}
+
+	public static void main(String[] args) throws Exception {
+		br = new BufferedReader(new InputStreamReader(System.in));
+		Contestant con = new Contestant(Integer.parseInt(args[0]));
+		con.process(br.toString());
+	}
+}

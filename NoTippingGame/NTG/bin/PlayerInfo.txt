@@ -1,0 +1,6 @@
+# This file contains the port numbers of all the registered players of this game
+
+Ting = 10005
+Jeremie = 10003
+
+

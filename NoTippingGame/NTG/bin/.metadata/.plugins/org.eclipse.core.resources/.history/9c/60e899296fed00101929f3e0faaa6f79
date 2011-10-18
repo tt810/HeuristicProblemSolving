@@ -1,0 +1,40 @@
+/**
+ * 
+ */
+
+/**
+ * @author ting
+ *
+ */
+public class PWPairs {
+	
+	private int position;
+	private int weight;
+	
+	public PWPairs(int position, int weight){
+		this.position = position;
+		this.weight = weight;
+	}
+	
+	public int get(int index){
+		if (index == 0)
+			return position;
+		else
+			return weight; 
+	}
+	
+	public int getPosition(){
+		return position;
+	}
+	
+	public int getWeight(){
+		return weight;
+	}
+	
+	@Override
+	public String toString(){
+		StringBuilder sb = new StringBuilder();
+		sb.append(position+" ");
+		return sb.append(weight).toString();
+	}
+}

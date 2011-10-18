@@ -1,0 +1,226 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,perspective,org.eclipse.jdt.ui,,"org.eclipse.jdt.ui.JavaPerspective",1317587743860
+started,bundle,org.eclipse.osgi,3.5.1.R35x_v20090827,"org.eclipse.osgi",1317587743861
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.101.R35x_v20090807-1100,"org.eclipse.equinox.simpleconfigurator",1317587743862
+started,bundle,com.ibm.icu,4.0.1.v20090822,"com.ibm.icu",1317587743887
+started,bundle,org.eclipse.core.contenttype,3.4.1.R35x_v20090826-0451,"org.eclipse.core.contenttype",1317587743888
+started,bundle,org.eclipse.core.databinding.observable,1.2.0.M20090902-0800,"org.eclipse.core.databinding.observable",1317587743889
+started,bundle,org.eclipse.core.expressions,3.4.100.v20090429-1800,"org.eclipse.core.expressions",1317587743889
+started,bundle,org.eclipse.core.filebuffers,3.5.0.v20090526-2000,"org.eclipse.core.filebuffers",1317587743890
+started,bundle,org.eclipse.core.jobs,3.4.100.v20090429-1800,"org.eclipse.core.jobs",1317587743890
+started,bundle,org.eclipse.core.net,1.2.1.r35x_20090812-1200,"org.eclipse.core.net",1317587743891
+started,bundle,org.eclipse.core.resources,3.5.1.R35x_v20090826-0451,"org.eclipse.core.resources",1317587743891
+started,bundle,org.eclipse.core.runtime,3.5.0.v20090525,"org.eclipse.core.runtime",1317587743892
+started,bundle,org.eclipse.core.runtime.compatibility,3.2.0.v20090413,"org.eclipse.core.runtime.compatibility",1317587743892
+started,bundle,org.eclipse.core.runtime.compatibility.auth,3.2.100.v20090413,"org.eclipse.core.runtime.compatibility.auth",1317587743893
+started,bundle,org.eclipse.ecf,3.0.0.v20090831-1906,"org.eclipse.ecf",1317587743894
+started,bundle,org.eclipse.ecf.filetransfer,3.0.0.v20090831-1906,"org.eclipse.ecf.filetransfer",1317587743894
+started,bundle,org.eclipse.ecf.identity,3.0.0.v20090831-1906,"org.eclipse.ecf.identity",1317587743894
+started,bundle,org.eclipse.ecf.provider.filetransfer,3.0.1.v20090831-1906,"org.eclipse.ecf.provider.filetransfer",1317587743895
+started,bundle,org.eclipse.ecf.provider.filetransfer.httpclient,3.0.1.v20090831-1906,"org.eclipse.ecf.provider.filetransfer.httpclient",1317587743896
+started,bundle,org.eclipse.equinox.app,1.2.0.v20090520-1800,"org.eclipse.equinox.app",1317587743896
+started,bundle,org.eclipse.equinox.common,3.5.1.R35x_v20090807-1100,"org.eclipse.equinox.common",1317587743897
+started,bundle,org.eclipse.equinox.ds,1.1.1.R35x_v20090806,"org.eclipse.equinox.ds",1317587743897
+started,bundle,org.eclipse.equinox.frameworkadmin,1.0.100.v20090520-1905,"org.eclipse.equinox.frameworkadmin",1317587743898
+started,bundle,org.eclipse.equinox.frameworkadmin.equinox,1.0.100.v20090520-1905,"org.eclipse.equinox.frameworkadmin.equinox",1317587743898
+started,bundle,org.eclipse.equinox.p2.core,1.0.101.R35x_v20090819,"org.eclipse.equinox.p2.core",1317587743899
+started,bundle,org.eclipse.equinox.p2.director,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.director",1317587743899
+started,bundle,org.eclipse.equinox.p2.directorywatcher,1.0.100.v20090525,"org.eclipse.equinox.p2.directorywatcher",1317587743899
+started,bundle,org.eclipse.equinox.p2.engine,1.0.101.R35x_v20090825,"org.eclipse.equinox.p2.engine",1317587743900
+started,bundle,org.eclipse.equinox.p2.exemplarysetup,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.exemplarysetup",1317587743901
+started,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.garbagecollector",1317587743901
+started,bundle,org.eclipse.equinox.p2.metadata.repository,1.0.101.R35x_v20090812,"org.eclipse.equinox.p2.metadata.repository",1317587743901
+started,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.reconciler.dropins",1317587743907
+started,bundle,org.eclipse.equinox.p2.repository,1.0.1.v20090901-1041,"org.eclipse.equinox.p2.repository",1317587743909
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.0.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk.scheduler",1317587743909
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.0.v20090520-1905,"org.eclipse.equinox.p2.updatechecker",1317587743909
+started,bundle,org.eclipse.equinox.preferences,3.2.300.v20090520-1800,"org.eclipse.equinox.preferences",1317587743910
+started,bundle,org.eclipse.equinox.registry,3.4.100.v20090520-1800,"org.eclipse.equinox.registry",1317587743910
+started,bundle,org.eclipse.equinox.security,1.0.100.v20090520-1800,"org.eclipse.equinox.security",1317587743941
+started,bundle,org.eclipse.equinox.simpleconfigurator.manipulator,1.0.100.v20090520-1905,"org.eclipse.equinox.simpleconfigurator.manipulator",1317587743942
+started,bundle,org.eclipse.equinox.util,1.0.100.v20090520-1800,"org.eclipse.equinox.util",1317587743943
+started,bundle,org.eclipse.help,3.4.1.v20090805_35x,"org.eclipse.help",1317587743944
+started,bundle,org.eclipse.jdt.core.manipulation,1.3.0.v20090603,"org.eclipse.jdt.core.manipulation",1317587743949
+started,bundle,org.eclipse.jface,3.5.1.M20090826-0800,"org.eclipse.jface",1317587743950
+started,bundle,org.eclipse.jsch.core,1.1.100.I20090430-0408,"org.eclipse.jsch.core",1317587743950
+started,bundle,org.eclipse.mylyn.commons.net,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.commons.net",1317587743950
+started,bundle,org.eclipse.search,3.5.1.r351_v20090708-0800,"org.eclipse.search",1317587743952
+started,bundle,org.eclipse.team.core,3.5.0.I20090527-0620,"org.eclipse.team.core",1317587743952
+started,bundle,org.eclipse.team.cvs.core,3.3.200.I20090430-0408,"org.eclipse.team.cvs.core",1317587743953
+started,bundle,org.eclipse.team.ui,3.5.0.I20090430-0408,"org.eclipse.team.ui",1317587743954
+started,bundle,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui",1317587743956
+started,bundle,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console",1317587743957
+started,bundle,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.editors",1317587743958
+started,bundle,org.eclipse.ui.forms,3.4.1.v20090714_35x,"org.eclipse.ui.forms",1317587743959
+started,bundle,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.ide",1317587743984
+started,bundle,org.eclipse.ui.intro,3.3.1.v20090805_35x,"org.eclipse.ui.intro",1317587743985
+started,bundle,org.eclipse.ui.intro.universal,3.2.300.v20090526,"org.eclipse.ui.intro.universal",1317587743985
+started,bundle,org.eclipse.ui.net,1.2.1.r35x_20090812-1200,"org.eclipse.ui.net",1317587743985
+started,bundle,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views",1317587743986
+started,bundle,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"org.eclipse.ui.workbench",1317587744016
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1317587744017
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1317587744017
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1317587744018
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1317587744018
+started,bundle,org.eclipse.epp.usagedata.gathering,1.1.1.R201001291118,"org.eclipse.epp.usagedata.gathering",1317587744019
+started,bundle,org.eclipse.epp.usagedata.recording,1.1.1.R201001291118,"org.eclipse.epp.usagedata.recording",1317587744019
+started,bundle,org.eclipse.jdt.core,3.5.2.v_981_R35x,"org.eclipse.jdt.core",1317587744056
+started,bundle,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui",1317587744059
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.bugzilla.core",1317587744060
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.bugzilla.ui",1317587744060
+started,bundle,org.eclipse.mylyn.commons.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.commons.ui",1317587744061
+started,bundle,org.eclipse.mylyn.context.core,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.context.core",1317587744062
+started,bundle,org.eclipse.mylyn.context.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.context.ui",1317587744095
+started,bundle,org.eclipse.mylyn.monitor.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.monitor.ui",1317587744095
+started,bundle,org.eclipse.mylyn.tasks.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.tasks.ui",1317587744126
+started,bundle,org.eclipse.mylyn.team.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.team.ui",1317587744127
+started,bundle,org.eclipse.team.cvs.ui,3.3.202.r35x_20090930-0800,"org.eclipse.team.cvs.ui",1317587744128
+os,sysinfo,,,"macosx",1317587744133
+arch,sysinfo,,,"x86",1317587744133
+ws,sysinfo,,,"cocoa",1317587744133
+locale,sysinfo,,,"fr_FR",1317587744133
+processors,sysinfo,,,"2",1317587744133
+java.runtime.name,sysinfo,,,"Java(TM) 2 Runtime Environment, Standard Edition",1317587744133
+java.runtime.version,sysinfo,,,"1.5.0_28-b04-382-9M3326",1317587744133
+java.specification.name,sysinfo,,,"Java Platform API Specification",1317587744133
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1317587744133
+java.specification.version,sysinfo,,,"1.5",1317587744133
+java.vendor,sysinfo,,,"Apple Inc.",1317587744133
+java.version,sysinfo,,,"1.5.0_28",1317587744133
+java.vm.info,sysinfo,,,"mixed mode",1317587744133
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1317587744133
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1317587744133
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1317587744133
+java.vm.specification.version,sysinfo,,,"1.0",1317587744133
+java.vm.vendor,sysinfo,,,"Apple Inc.",1317587744133
+java.vm.version,sysinfo,,,"1.5.0_28-157",1317587744133
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317587774895
+activated,view,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.internal.introview",1317587774902
+activated,view,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.PackageExplorer",1317587780130
+activated,view,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.PackageExplorer",1317587780189
+closed,view,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.internal.introview",1317587780233
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317587788519
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317587818495
+started,bundle,org.eclipse.core.filesystem,1.2.0.v20090507,"org.eclipse.core.filesystem",1317587818532
+started,bundle,org.eclipse.debug.core,3.5.0.v20090526-1600,"org.eclipse.debug.core",1317587819135
+started,bundle,org.eclipse.jdt.launching,3.5.1.v20100108_r352,"org.eclipse.jdt.launching",1317587819156
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.0.v20090513-2000,"org.eclipse.ltk.core.refactoring",1317587820329
+started,bundle,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring",1317587820778
+started,bundle,org.eclipse.compare.core,3.5.0.I20090430-0408,"org.eclipse.compare.core",1317587820976
+opened,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317587821431
+started,bundle,org.eclipse.jdt.launching.macosx,3.2.0.v20090527,"org.eclipse.jdt.launching.macosx",1317587821487
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317587822089
+opened,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317587822944
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317587823041
+opened,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317587823191
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317587823281
+opened,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317587823381
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317587823479
+opened,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317587823703
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317587823820
+opened,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317587823909
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317587823994
+opened,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317587824102
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317587824187
+opened,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317587824295
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317587824371
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.edit.text.openLocalFile",1317587824535
+started,bundle,org.eclipse.jdt.apt.core,3.3.202.R35x_v20091130-2300,"org.eclipse.jdt.apt.core",1317587853104
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317587944337
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588098508
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588098892
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588099510
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588108176
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588120808
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317588124683
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317588125945
+activated,view,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.PackageExplorer",1317588132699
+opened,view,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.TypeHierarchy",1317588137591
+activated,view,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.TypeHierarchy",1317588137603
+activated,view,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.PackageExplorer",1317588139274
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588164255
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588169480
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588192618
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588256075
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.import",1317588256120
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.import",1317588256120
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588268376
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588276571
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1317588286456
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588290025
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588292272
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1317588292351
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1317588292352
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588297048
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588341235
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317588356611
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588363801
+activated,view,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.PackageExplorer",1317588405659
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588405758
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588417129
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588422099
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317588423980
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317588424111
+closed,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317588424112
+activated,view,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.PackageExplorer",1317588426666
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.refresh",1317588433551
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317588441329
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317588441950
+closed,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317588441950
+closed,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317588442658
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317588444120
+closed,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317588444120
+closed,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317588444891
+closed,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317588446169
+closed,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317588447530
+activated,view,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.PackageExplorer",1317588448462
+closed,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317588448463
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588454834
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1317588467076
+opened,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317588472653
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317588472701
+started,bundle,org.eclipse.jdt.junit,3.5.2.r352_v20100113-0800,"org.eclipse.jdt.junit",1317588472836
+error,log,,,"Exception occurred during problem detection:\n----------------------------------- SOURCE BEGIN -------------------------------------\n/**\n * \n */\n \n\nimport java.io.*;\n\n\nclass Contestant extends NoTippingPlayer {\n\tprivate static BufferedReader br;\n\tprivate String status;\n\tprivate Integer[] torque = {-9, -3};\n\t\n\tContestant(int port) {\n\t\tsuper(port);\n\t}\n\n\tprotected String process(String command) {\n\t\tthis.status = command;\n\t\t\n\t\t//System.out.println(command);\n\t\t//System.out.println(""Enter move (position weight): "");\n\t\ttry {\n\t\t\t//return ""3 3"";\n\t\t\treturn br.readLine();\n\t\t} catch (Exception ev) {\n\t\t\tSystem.out.println(ev.getMessage());\n\t\t}\n\t\treturn """";\t\t\t\n\t}\n\n\tpublic static void main(String[] args) throws Exception {\n\t\tbr = new BufferedReader(new InputStreamReader(System.in));\n\t\tContestant con = new Contestant(Integer.parseInt(args[0]));\n\t\tcon.process(br.toString());\n\t}\n}\n\n----------------------------------- SOURCE END -------------------------------------",1317588473369
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588473375
+error,log,,,"Error in JDT Core during reconcile",1317588473386
+started,bundle,org.eclipse.core.variables,3.2.200.v20090521,"org.eclipse.core.variables",1317588473506
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588474138
+error,log,,,"Error in JDT Core during AST creation",1317588474139
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588474141
+error,log,,,"Error in JDT Core during AST creation",1317588474177
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588474285
+error,log,,,"Error in JDT Core during AST creation",1317588474286
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588474289
+error,log,,,"Error in JDT Core during AST creation",1317588474290
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588474293
+error,log,,,"Error in JDT Core during AST creation",1317588474294
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588474297
+error,log,,,"Error in JDT Core during AST creation",1317588474297
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588474300
+error,log,,,"Error in JDT Core during AST creation",1317588474300
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588477687
+error,log,,,"Error in JDT Core during AST creation",1317588477687
+error,log,,,"Unexpected runtime error while computing a text hover",1317588477858
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588481316
+error,log,,,"Error in JDT Core during AST creation",1317588481320
+error,log,,,"Exception occurred during problem detection:\n----------------------------------- SOURCE BEGIN -------------------------------------\n/**\n * \n */\n \n\nimport java.io.*;\n\n\nclass Contestant extends NoTippingPlayer {\n\tprivate static BufferedReader br;\n\tprivate String status;\n\tprivate Integer[] torque = {-9, -3};\n\t\n\tContestant(int port) {\n\t\tsuper(port);\n\t}\n\n\tprotected String process(String command) {\n\t\tthis.status = command;\n\t\t\n\t\t//System.out.println(command);\n\t\t//System.out.println(""Enter move (position weight): "");\n\t\ttry {\n\t\t\t//return ""3 3"";\n\t\t\treturn br.readLine();\n\t\t} catch (Exception ev) {\n\t\t\tSystem.out.println(ev.getMessage());\n\t\t}\n\t\treturn """";\t\t\t\n\t}\n\n\tpublic static void main(String[] args) throws Exception {\n\t\tbr = new BufferedReader(new InputStreamReader(System.in));\n\t\tContestant con = new Contestant(Integer.parseInt(args[0]));\n\t\tcon.process(br.toString());\n\t}\n}\n\n----------------------------------- SOURCE END -------------------------------------",1317588484652
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588484654
+error,log,,,"Error in JDT Core during reconcile",1317588484655
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588484662
+error,log,,,"Error in JDT Core during AST creation",1317588484662
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588484789
+error,log,,,"Error in JDT Core during AST creation",1317588484789
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588492565
+error,log,,,"Error in JDT Core during AST creation",1317588492566
+error,log,,,"Exception occurred during problem detection:\n----------------------------------- SOURCE BEGIN -------------------------------------\n/**\n * \n */\n \n\nimport java.io.*;\n\n\nclass Contestant extends NoTippingPlayer {\n\tprivate static BufferedReader br;\n\tprivate String status;\n\tprivate Integer[] torque = {-9, -3};\n\t\n\tContestant(int port) {\n\t\tsuper(port);\n\t}\n\n\t\n\t\n\tprotected String process(String command) {\n\t\tthis.status = command;\n\t\t\n\t\t//System.out.println(command);\n\t\t//System.out.println(""Enter move (position weight): "");\n\t\ttry {\n\t\t\t//return ""3 3"";\n\t\t\treturn br.readLine();\n\t\t} catch (Exception ev) {\n\t\t\tSystem.out.println(ev.getMessage());\n\t\t}\n\t\treturn """";\t\t\t\n\t}\n\n\tpublic static void main(String[] args) throws Exception {\n\t\tbr = new BufferedReader(new InputStreamReader(System.in));\n\t\tContestant con = new Contestant(Integer.parseInt(args[0]));\n\t\tcon.process(br.toString());\n\t}\n}\n\n----------------------------------- SOURCE END -------------------------------------",1317588494193
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588494195
+error,log,,,"Error in JDT Core during reconcile",1317588494196
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588494218
+error,log,,,"Error in JDT Core during AST creation",1317588494219
+error,log,,,"Exception occurred during problem detection:\n----------------------------------- SOURCE BEGIN -------------------------------------\n/**\n * \n */\n \n\nimport java.io.*;\n\n\nclass Contestant extends NoTippingPlayer {\n\tprivate static BufferedReader br;\n\tprivate String status;\n\tprivate Integer[] torque = {-9, -3};\n\t\n\tContestant(int port) {\n\t\tsuper(port);\n\t}\n\n\tprivate \n\t\n\tprotected String process(String command) {\n\t\tthis.status = command;\n\t\t\n\t\t//System.out.println(command);\n\t\t//System.out.println(""Enter move (position weight): "");\n\t\ttry {\n\t\t\t//return ""3 3"";\n\t\t\treturn br.readLine();\n\t\t} catch (Exception ev) {\n\t\t\tSystem.out.println(ev.getMessage());\n\t\t}\n\t\treturn """";\t\t\t\n\t}\n\n\tpublic static void main(String[] args) throws Exception {\n\t\tbr = new BufferedReader(new InputStreamReader(System.in));\n\t\tContestant con = new Contestant(Integer.parseInt(args[0]));\n\t\tcon.process(br.toString());\n\t}\n}\n\n----------------------------------- SOURCE END -------------------------------------",1317588499222
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588499224
+error,log,,,"Error in JDT Core during reconcile",1317588499225
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588499347
+error,log,,,"Error in JDT Core during AST creation",1317588499348
+error,log,,,"Exception occurred during problem detection:\n----------------------------------- SOURCE BEGIN -------------------------------------\n/**\n * \n */\n \n\nimport java.io.*;\n\n\nclass Contestant extends NoTippingPlayer {\n\tprivate static BufferedReader br;\n\tprivate String status;\n\tprivate Integer[] torque = {-9, -3};\n\t\n\tContestant(int port) {\n\t\tsuper(port);\n\t}\n\n\tprivate \n\t\n\tprotected String process(String command) {\n\t\tthis.status = command;\n\t\t\n\t\t//System.out.println(command);\n\t\t//System.out.println(""Enter move (position weight): "");\n\t\ttry {\n\t\t\t//return ""3 3"";\n\t\t\treturn br.readLine();\n\t\t} catch (Exception ev) {\n\t\t\tSystem.out.println(ev.getMessage());\n\t\t}\n\t\treturn """";\t\t\t\n\t}\n\n\tpublic static void main(String[] args) throws Exception {\n\t\tbr = new BufferedReader(new InputStreamReader(System.in));\n\t\tContestant con = new Contestant(Integer.parseInt(args[0]));\n\t\tcon.process(br.toString());\n\t}\n}\n\n----------------------------------- SOURCE END -------------------------------------",1317588503734
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1317588503736

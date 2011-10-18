@@ -1,0 +1,5 @@
+# This file contains the port numbers of all the registered players of this gam
+
+You = 10003
+Ting = 10005
+

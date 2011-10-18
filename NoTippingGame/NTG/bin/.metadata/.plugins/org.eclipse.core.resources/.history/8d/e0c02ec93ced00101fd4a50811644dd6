@@ -1,0 +1,21 @@
+import static java.lang.Math.*;
+
+
+
+public class test {
+	
+	public static void main(String[] args) 
+	{
+		
+		Integer[] torque = {-9, -3}; 
+
+		int[] weights = new int[10]; 
+		int[] positions = new int[31]; 
+		int[][]bestFits = new int[10][2]; 
+		
+		
+		
+
+	}
+
+}

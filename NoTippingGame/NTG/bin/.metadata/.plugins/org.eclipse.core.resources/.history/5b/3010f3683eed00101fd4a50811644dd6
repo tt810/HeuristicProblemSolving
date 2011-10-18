@@ -1,0 +1,36 @@
+import static java.lang.Math.*;
+
+
+
+public class test {
+	
+	static int[] positions = new int[31]; 
+	static int[] relativePositions = positions; 
+
+	
+	public static void main(String[] args) 
+	{
+		for (int i=0; i<relativePositions.length; i++)
+		{
+			if (relativePositions[i] <-3)
+				relativePositions[i] = relativePositions[i]+3; 
+			if (relativePositions[i] >-1)
+				relativePositions[i] = relativePositions[i]+1; 
+		}
+		
+		Integer[]torque = {-12, 30}; 
+		int[] weights = new int[10]; 
+
+	}
+	
+	public static String addingPhase()
+	{		
+		int[][]bestFits = new int[10][2]; 
+		
+		//Compute the relative positions: 
+		
+		
+		return ""; 
+	}
+
+}
