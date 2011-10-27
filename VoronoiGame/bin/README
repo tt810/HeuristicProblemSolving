@@ -1,0 +1,140 @@
+Voronoi Game
+Heuristic Problem Solving
+Fall 2011
+
+Architects:
+Eric Humphrey: ejh333@nyu.edu
+Oriol Nieto: onc202@nyu.edu
+
+******** BRIEF INSTRUCTIONS ********
+
+In this order:
+
+Terminal 1:
+$> make ( for osx )
+$> make linux ( for linux )
+$> ./gameServer N port1 port2 [port3 ... portM]
+
+Terminal 2:
+$> ./client localhost port1
+
+Terminal 3:
+$> ./client localhost port2
+
+Terminal 4:
+$> ./client localhost port3
+...
+
+The game will start when all players are connected.
+
+******** COMPILATION INSTRUCTIONS ********
+
+To compile under OSX, just type "make"
+
+To compile under Linux, type "make linux"
+
+
+******** RUNNING THE SERVER ********
+
+To run the server type:
+./gameServer N port1 port2 [port3 ... portM]
+
+Where N is the number of turns and M is the number of players
+
+Example:
+./gameServer 10 8080 8081 8082
+
+This will run the server and the game will have 10 turns, and
+the players will connect trhough ports 8080 (first player), 
+8081 (second player), and 8082 (third player).
+
+Players are numbered from 0 to M-1.
+
+The server MUST be running before the clients connect to it.
+
+
+********* RUNNING THE CLIENTS ********
+
+To run the clients type:
+./client host port
+
+Where host is the machine the server is running (e.g. localhost)
+and port is the port number of the player.
+
+Example:
+./client localhost 8080
+
+This will run the client and will connect to the localhost on
+port 8080
+
+The clients MUST connect in order to the server.
+
+
+********** MESSAGES *********
+
+The server will send a message to the first player (Player 0)
+when all players connect to the server.
+
+The message will have the following form (explained with an example):
+
+---------
+GLOBALS
+Total Turns: 15
+Total Players: 2
+You are Player: 1
+
+PLAYER SCORES
+0: 0
+1: 0
+
+BOARD STATE
+0: 300 400
+1: 500 50
+0: 200 400
+1: 750 431
+0: 130 953
+1: 693 555
+0: 320 594
+1: 555 560
+0: 600 430
+1: 230 43
+0: 999 749
+1: 323 545
+0: 435 654
+1: 324 545
+0: 323 454
+1: 435 654
+0: 435 543
+1: 545 654
+0: 654 898
+1: 45 545
+0: 434 565
+1: 545 656
+0: 542 123
+1: 546 112
+0: 323 455
+1: 434 545
+0: 234 544
+1: 434 545
+0: 434 566
+
+Enter new position "X Y":
+---------
+
+(Note: the '-' chars are not included in the message).
+
+Positions are integers from 0 to 999.
+Scores will be floating points.
+
+We expect from the players to send their new board positions by 
+sending two integers separated by exactly one space.
+
+Example: 
+100 400
+
+The clients can use whatever language they want to, as long as they
+can connect through sockets to a specific port of a specific machine.
+client.c shows an example on how to do that.
+
+If you have any questions just ask the architects!
+Have fun! :)
