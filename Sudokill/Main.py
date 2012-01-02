@@ -1,0 +1,43 @@
+from Board import *
+
+board = Board()
+def parse():
+	board.fillCell(0, 1, 6)
+	board.fillCell(0, 2, 5)
+	board.fillCell(0, 3, 1)
+	board.fillCell(1, 0, 4)
+	board.fillCell(1, 1, 9)
+	board.fillCell(1, 2, 1)
+	board.fillCell(1, 5, 6)
+	board.fillCell(1, 8, 3)
+	board.fillCell(2, 0, 2)
+	board.fillCell(2, 1, 8)
+	board.fillCell(2, 5, 9)
+	board.fillCell(3, 4, 8)
+	board.fillCell(3, 7, 2)
+	board.fillCell(4, 0, 8)
+	board.fillCell(4, 5, 2)
+	board.fillCell(4, 7, 4)
+	board.fillCell(5, 0, 5)
+	board.fillCell(5, 3, 9)
+	board.fillCell(5, 4, 4)
+	board.fillCell(5, 6, 1)
+	board.fillCell(5, 8, 6)
+	board.fillCell(6, 0, 1)
+	board.fillCell(6, 1, 7)
+	board.fillCell(6, 2, 2)
+	board.fillCell(6, 3, 8)
+	board.fillCell(6, 7, 6)
+	board.fillCell(7, 1, 4)
+	board.fillCell(7, 5, 5)
+	board.fillCell(8, 2, 9)
+	board.fillCell(8, 7, 7)
+if __name__ == "__main__":
+	parse()
+	"""
+	print board.board
+	print board.unFillCol(6)
+	print board.unFillRow(5)
+	print board.possibleKids(5, 6)
+	"""
+	print board.getNode(5, 6, 1, 1)
