@@ -1,0 +1,13 @@
+To run this game, you need three terminals
+
+for the server:
+$python evasion_game_server.py M N host1 port1 host2 port2
+
+for hunter:
+$python Tclient.py host1 port1 M N
+
+for prey:
+$python Cclient.py host2 port2 M N
+
+M:  At any given time the maximum number of walls there can be.
+N:	Hunter may create or remove a wall not more frequently than every N time steps.
